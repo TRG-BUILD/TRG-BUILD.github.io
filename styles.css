@@ -1,0 +1,15 @@
+body {
+    background-color: Aqua;
+}
+
+h1 {
+    font-size: 200px;
+    background-color: DeepSkyBlue;
+    color: white;
+}
+
+table, th, td {
+    background-color: #F0F8FF;
+    border: 1px solid black;
+    width: 100%;
+}
